@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T16:35:57.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vjs8TZbR8OuDbcltDIZn" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T16:37:36.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Q_hplCIAzVwI_Y2XRHAi" version="15.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1026" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -45,10 +45,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xMqIkiYqQwlnAPgPhAH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6xMqIkiYqQwlnAPgPhAH-6" target="6xMqIkiYqQwlnAPgPhAH-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="185" />
+              <mxPoint x="685" y="185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6xMqIkiYqQwlnAPgPhAH-6" value="DONO DO OBJETO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="70" width="60" height="60" as="geometry" />
+          <mxGeometry x="680" y="50" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6xMqIkiYqQwlnAPgPhAH-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LEILÃO DE CAVALO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="-70" width="210" height="60" as="geometry" />
